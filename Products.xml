@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Products xmlns="http://www.test.org">
+<Product>
+    <product_code>ult_small</product_code>
+    <product_name>Unlimited 1GB</product_name>
+    <price>24.9</price>
+</Product>
+<Product>
+    <product_code>ult_medium</product_code>
+    <product_name>Unlimited 2GB</product_name>
+    <price>29.9</price>
+</Product>
+<Product>
+    <product_code>ult_large</product_code>
+    <product_name>Unlimited 5GB</product_name>
+    <price>44.9</price>
+</Product>
+<Product>
+    <product_code>1gb</product_code>
+    <product_name>1 GB Data-pack</product_name>
+    <price>9.9</price>
+</Product>
+</Products>
